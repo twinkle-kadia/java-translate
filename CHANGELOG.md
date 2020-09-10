@@ -1,5 +1,17 @@
 # Changelog
 
+### [1.95.3](https://www.github.com/googleapis/java-translate/compare/v1.95.2...v1.95.3) (2020-09-10)
+
+
+### Bug Fixes
+
+* increase batch translate timeout to 300 ([#274](https://www.github.com/googleapis/java-translate/issues/274)) ([75736fe](https://www.github.com/googleapis/java-translate/commit/75736fe03ee1298ee153ce9baeb8c81ec82df8a0))
+
+
+### Dependencies
+
+* update dependency com.google.cloud:google-cloud-shared-dependencies to v0.9.0 ([#281](https://www.github.com/googleapis/java-translate/issues/281)) ([e028946](https://www.github.com/googleapis/java-translate/commit/e02894607fea4edaa04486709a0e438a5f5beb20))
+
 ### [1.95.2](https://www.github.com/googleapis/java-translate/compare/v1.95.1...v1.95.2) (2020-08-21)
 
 
